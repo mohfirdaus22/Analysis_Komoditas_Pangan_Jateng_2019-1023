@@ -88,10 +88,10 @@ Project ini dikembangkan menggunakan Python dengan library berikut:
 ---
 ##  Visualisasi Utama
 
-![Ketersediaan vs Kebutuhan](assets/images/ketersediaan_vs_kebutuhan.png)
+![Ketersediaan vs Kebutuhan](https://github.com/mohfirdaus22/Analysis_Komoditas_Pangan_Jateng_2019-2023/blob/main/assets/images/Ketersediaan_vs_kebutuhan.png)
 
 ### Prediksi Ketersediaan Pangan (Beras)
-![Prediksi Ketersediaan Beras](assets/images/prediksi_ketersediaan_beras.png)
+![Prediksi Ketersediaan Beras](https://github.com/mohfirdaus22/Analysis_Komoditas_Pangan_Jateng_2019-2023/blob/main/assets/images/Prediks_%20ketersediaan_beras.png)
 
 **Author**: [mohfirdaus22]
 
